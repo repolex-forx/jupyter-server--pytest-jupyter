@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "pytest-jupyter",
+  "versions": [
+    {
+      "commit": "9509dd22d3a29122373d8a5ae134632f10abce21",
+      "tag": "",
+      "parsed_at": "2026-10-15T13:40:40.252763+00:00"
+    }
+  ]
+}
