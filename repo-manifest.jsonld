@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/pytest-jupyter/commit/9509dd22d3a29122373d8a5ae134632f10abce21",
       "git:hexsha": "9509dd22d3a29122373d8a5ae134632f10abce21",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-server/pytest-jupyter/commit/b2b4c858ba13cb51cc8bab305ee1926f07024ad9",
